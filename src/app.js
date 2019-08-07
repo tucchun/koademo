@@ -2,6 +2,7 @@ const Koa = require('../node_modules/koa/lib/application.js')
 const app = new Koa()
 const router = require('./router.js')
 const middleware = require('./middleware/index.js')
+require('../lib/help')
 middleware(app)
 router(app)
 app.listen(3000, () => {
