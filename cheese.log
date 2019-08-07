@@ -1,0 +1,19 @@
+[2019-08-01T20:08:38.912] [ERROR] default - Cheese is too ripe!
+[2019-08-01T20:08:38.913] [FATAL] default - Cheese was b reeding groud for listeria.
+[2019-08-01T20:24:05.758] [INFO] cheese - 响应时间0.02s
+[2019-08-01T20:24:05.791] [INFO] cheese - 响应时间0.003s
+[2019-08-01T20:24:33.192] [INFO] cheese - 响应时间0.006s
+[2019-08-01T20:24:44.652] [INFO] cheese - 响应时间3.403s
+[2019-08-01T20:24:44.669] [INFO] cheese - 响应时间0.005s
+[2019-08-01T20:24:52.453] [INFO] cheese - 响应时间0.023s
+[2019-08-01T20:25:27.100] [INFO] cheese - 响应时间0.047s
+[2019-08-01T20:37:51.031] [INFO] cheese - 响应时间0.009s
+[2019-08-01T20:41:18.838] [INFO] cheese - [Object: null prototype] {}
+[2019-08-01T20:41:20.083] [INFO] cheese - 
+[2019-08-01T20:41:20.085] [INFO] cheese - 响应时间4.738s
+[2019-08-01T20:41:26.875] [INFO] cheese - 响应时间0.028s
+[2019-08-01T20:41:30.049] [INFO] cheese - 响应时间0.024s
+[2019-08-01T20:42:26.048] [INFO] cheese - { id: '134329', name: 'tucchun' }
+[2019-08-01T20:42:26.050] [INFO] cheese - 响应时间5.26s
+[2019-08-01T20:43:50.629] [INFO] cheese - { id: '134329', name: 'tucchun' }
+[2019-08-01T20:43:50.631] [INFO] cheese - 响应时间0.008s
